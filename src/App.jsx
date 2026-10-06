@@ -312,7 +312,7 @@ function App() {
               setInput(event.target.value)
             }
             onKeyDown={handleKeyDown}
-            placeholder="Ask me anything about the store..."
+            placeholder="Ask me anything about the retail..."
             rows={1}
             disabled={loading}
           />
